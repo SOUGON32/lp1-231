@@ -1,0 +1,77 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "lp1-231_f227723a"
+        },
+        {
+            "type": "java",
+            "name": "EstruturasControle",
+            "request": "launch",
+            "mainClass": "semana04.EstruturasControle",
+            "projectName": "lp1-231_f227723a"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "semana04.Ex01",
+            "projectName": "lp1-231_f227723a"
+        },
+        {
+            "type": "java",
+            "name": "Ex02",
+            "request": "launch",
+            "mainClass": "semana04.Ex02",
+            "projectName": "lp1-231_f227723a"
+        },
+        {
+            "type": "java",
+            "name": "Ex01(1)",
+            "request": "launch",
+            "mainClass": "semana05.Ex01",
+            "projectName": "lp1-231_f227723a"
+        },
+        {
+            "type": "java",
+            "name": "Ex02(1)",
+            "request": "launch",
+            "mainClass": "semana05.Ex02",
+            "projectName": "lp1-231_f227723a"
+        },
+        {
+            "type": "java",
+            "name": "Metodos",
+            "request": "launch",
+            "mainClass": "semana06.Metodos",
+            "projectName": "lp1-231_f227723a"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio",
+            "request": "launch",
+            "mainClass": "semana07.Exercicio",
+            "projectName": "lp1-231_f227723a"
+        },
+        {
+            "type": "java",
+            "name": "Programa",
+            "request": "launch",
+            "mainClass": "semana12.Programa",
+            "projectName": "lp1-231_f227723a"
+        }
+    ]
+}
