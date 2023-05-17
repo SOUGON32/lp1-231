@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AquarioPrograma",
+            "request": "launch",
+            "mainClass": "semana11.AquarioPrograma",
+            "projectName": "lp1-231_10b20065"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1",
+            "request": "launch",
+            "mainClass": "semana11.Exercicio1",
+            "projectName": "lp1-231_10b20065"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
